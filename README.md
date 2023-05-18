@@ -7,8 +7,11 @@ Objective: The objective of Rock Paper Scissors is to defeat your opponent by se
 Hand Gestures:
 
 Rock: Symbolized by a closed fist, it defeats scissors but is defeated by paper.
+
 Paper: Symbolized by an open hand, it defeats rock but is defeated by scissors.
+
 Scissors: Symbolized by a fist with the index and middle finger extended, it defeats paper but is defeated by rock.
+
 Gameplay:
 
 Both players simultaneously choose one of the three hand gestures.
